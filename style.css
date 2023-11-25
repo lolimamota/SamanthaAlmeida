@@ -33,8 +33,14 @@ header{
 ul{
     display: flex;
     justify-content: space-around;
+    color: #C6B0D6;
+    text-shadow:-1px -1px 0.5px #F7D5E3;
+    font-size: 1rem;
 }
 
 h5{
     text-align: center;
+    color: #C6B0D6;
+    text-shadow:-1px -1px 0.5px #F7D5E3;
+    font-size: 0.5rem;
 }
